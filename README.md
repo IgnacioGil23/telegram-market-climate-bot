@@ -1,6 +1,6 @@
 # 🤖 Telegram Market & Climate Bot
 
-Bot inteligente de Telegram que proporciona análisis financiero en tiempo real y información meteorológica avanzada con arquitectura profesional y análisis predictivo.
+Bot inteligente de Telegram que proporciona análisis financiero en tiempo real e información meteorológica avanzada con arquitectura profesional y análisis predictivo.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)
