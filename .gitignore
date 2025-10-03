@@ -1,0 +1,58 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 🔒 ARCHIVOS SENSIBLES - NUNCA SUBIR A GITHUB
+.env
+.env.local
+.env.production
+config_local.py
+chat_id.txt
+tokens.txt
+keys.txt
+
+# Cualquier archivo que contenga información personal
+*_personal.*
+*_private.*
+*_secret.*
+
+# Logs que pueden contener información sensible
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.backup
+
+# Archivos de configuración específicos del usuario
+user_config.py
+local_settings.py
